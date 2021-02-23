@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">estrutura</string>
+    <string name="Welcome" translatable="false">Welcome to the app</string>
 </resources>
